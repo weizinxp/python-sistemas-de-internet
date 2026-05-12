@@ -71,7 +71,7 @@ Examples:
 1. Install Python
 2. Clone this repository:
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/weizinxp/python-sistemas-de-internet.git
 ```
 
 3. Run any file:
