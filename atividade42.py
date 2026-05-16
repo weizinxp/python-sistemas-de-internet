@@ -1,4 +1,4 @@
-# Programa para ler 8 números inteiros e informar o maior
+#42. Faça um programa que leia 8 números inteiros e informe o maior.
 
 maior = None
 
