@@ -29,7 +29,7 @@ Exemplos:
 1. Instale o Python em sua máquina
 2. Clone este repositório:
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/weizinxp/python-sistemas-de-internet.git
 ```
 
 3. Execute qualquer arquivo:
@@ -71,7 +71,7 @@ Examples:
 1. Install Python
 2. Clone this repository:
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/weizinxp/python-sistemas-de-internet.git
 ```
 
 3. Run any file:
