@@ -1,4 +1,4 @@
-#7. Soma dos números pares e soma dos números ímpares
+#58. Soma dos números pares e soma dos números ímpares
 #Faça um programa que leia 10 números e armazene em uma lista. Depois, calcule separadamente:
 #Soma dos pares
 #Soma dos ímpares

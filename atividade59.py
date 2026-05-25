@@ -1,4 +1,4 @@
-#8. Buscar número e mostrar quantas vezes aparece
+#59. Buscar número e mostrar quantas vezes aparece
 #Faça um programa que leia 10 números e armazene em uma lista. Depois, peça ao usuário um número para pesquisar.
 #O programa deve informar quantas vezes esse número aparece na lista.
 #Exemplo:

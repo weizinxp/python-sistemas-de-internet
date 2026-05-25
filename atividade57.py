@@ -1,4 +1,4 @@
-#6. Inverter a lista sem usar reverse
+#57. Inverter a lista sem usar reverse
 #Faça um programa que leia 7 números e armazene em uma lista. Depois, crie uma nova lista com os valores na ordem inversa.
 #Atenção: não use reverse().
 #Exemplo:
